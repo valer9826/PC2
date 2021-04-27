@@ -38,3 +38,6 @@ C:\Users\heave\OneDrive\Escritorio\2021 - I\PROGRAMACIÓN I\TEORÍA\pc2\PC2\pc2\
 C:\Users\heave\OneDrive\Escritorio\2021 - I\PROGRAMACIÓN I\TEORÍA\pc2\PC2\pc2\obj\Debug\net5.0\pc2.pdb
 C:\Users\heave\OneDrive\Escritorio\2021 - I\PROGRAMACIÓN I\TEORÍA\pc2\PC2\pc2\obj\Debug\net5.0\pc2.genruntimeconfig.cache
 C:\Users\heave\OneDrive\Escritorio\2021 - I\PROGRAMACIÓN I\TEORÍA\pc2\PC2\pc2\obj\Debug\net5.0\pc2.csproj.CopyComplete
+C:\Users\heave\OneDrive\Escritorio\2021 - I\PROGRAMACIÓN I\TEORÍA\pc2\PC2\pc2\obj\Debug\net5.0\Razor\Views\Usuario\InicioSesion.cshtml.g.cs
+C:\Users\heave\OneDrive\Escritorio\2021 - I\PROGRAMACIÓN I\TEORÍA\pc2\PC2\pc2\obj\Debug\net5.0\Razor\Views\Catalogo\Lista.cshtml.g.cs
+C:\Users\heave\OneDrive\Escritorio\2021 - I\PROGRAMACIÓN I\TEORÍA\pc2\PC2\pc2\obj\Debug\net5.0\Razor\Views\Compra\Resumen.cshtml.g.cs

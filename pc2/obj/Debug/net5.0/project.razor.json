@@ -15639,8 +15639,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\heave\\OneDrive\\Escritorio\\2021 - I\\PROGRAMACIÓN I\\TEORÍA\\pc2\\PC2\\pc2\\Views\\Usuario\\InicioSesion.cshtml",
+      "TargetPath": "Views\\Usuario\\InicioSesion.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\heave\\OneDrive\\Escritorio\\2021 - I\\PROGRAMACIÓN I\\TEORÍA\\pc2\\PC2\\pc2\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\heave\\OneDrive\\Escritorio\\2021 - I\\PROGRAMACIÓN I\\TEORÍA\\pc2\\PC2\\pc2\\Views\\Compra\\Resumen.cshtml",
+      "TargetPath": "Views\\Compra\\Resumen.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\heave\\OneDrive\\Escritorio\\2021 - I\\PROGRAMACIÓN I\\TEORÍA\\pc2\\PC2\\pc2\\Views\\Catalogo\\Lista.cshtml",
+      "TargetPath": "Views\\Catalogo\\Lista.cshtml",
       "FileKind": "mvc"
     },
     {
